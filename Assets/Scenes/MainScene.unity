@@ -756,7 +756,7 @@ GameObject:
   - component: {fileID: 379538024}
   - component: {fileID: 379538023}
   m_Layer: 9
-  m_Name: RS (1)
+  m_Name: RS
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -810,7 +810,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"class","value":{"$content":"Sword","$type":"UnitEnum"},"$version":"A"},{"name":"speed","value":{"$content":-1.0,"$type":"System.Single"},"$version":"A"},{"name":"dust","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"class","value":{"$content":"Sword","$type":"UnitEnum"},"$version":"A"},{"name":"speed","value":{"$content":-1.0,"$type":"System.Single"},"$version":"A"},{"name":"dust","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"hp","value":{"$content":10,"$type":"System.Int32"},"$version":"A"},{"name":"atk","value":{"$content":2,"$type":"System.Int32"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 80955341}
 --- !u!61 &379538026
@@ -877,7 +877,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 2
   m_Sprite: {fileID: 8759150981705163766, guid: 4d701fb8bab94204e92af20e3e7b6a8a,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -2960,7 +2960,7 @@ GameObject:
   - component: {fileID: 1773974537}
   - component: {fileID: 1773974533}
   m_Layer: 8
-  m_Name: BS
+  m_Name: BG
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2976,7 +2976,7 @@ Animator:
   m_GameObject: {fileID: 1773974532}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 4e58d23a856186d459e0fdb527517a67, type: 2}
+  m_Controller: {fileID: 22100000, guid: 04263af6cf99e324cb75ac66ad8761b6, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -3023,8 +3023,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: -3154150011874791226, guid: 4d701fb8bab94204e92af20e3e7b6a8a,
+  m_SortingOrder: 2
+  m_Sprite: {fileID: -5908743213997753785, guid: 4d701fb8bab94204e92af20e3e7b6a8a,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -3106,7 +3106,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"class","value":{"$content":"Sword","$type":"UnitEnum"},"$version":"A"},{"name":"speed","value":{"$content":1.0,"$type":"System.Single"},"$version":"A"},{"name":"dust","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"class","value":{"$content":"Guard","$type":"UnitEnum"},"$version":"A"},{"name":"speed","value":{"$content":1.0,"$type":"System.Single"},"$version":"A"},{"name":"dust","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"hp","value":{"$content":25,"$type":"System.Int32"},"$version":"A"},{"name":"atk","value":{"$content":1,"$type":"System.Int32"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 1791855958}
 --- !u!1 &1791855958 stripped
@@ -3488,7 +3488,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"class","value":{"$content":"Sword","$type":"UnitEnum"},"$version":"A"},{"name":"speed","value":{"$content":-1.0,"$type":"System.Single"},"$version":"A"},{"name":"dust","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"class","value":{"$content":"Sword","$type":"UnitEnum"},"$version":"A"},{"name":"speed","value":{"$content":-1.0,"$type":"System.Single"},"$version":"A"},{"name":"dust","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"hp","value":{"$content":25,"$type":"System.Int32"},"$version":"A"},{"name":"atk","value":{"$content":1,"$type":"System.Int32"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 1555097234}
 --- !u!61 &1954524168
@@ -3527,7 +3527,7 @@ Animator:
   m_GameObject: {fileID: 1954524165}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 22100000, guid: e99e7a4c3fdf40843a496fb01fb0e1b8, type: 2}
+  m_Controller: {fileID: 22100000, guid: 37fddbbe69a94144ab0953d72418995f, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -3574,8 +3574,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 8759150981705163766, guid: 4d701fb8bab94204e92af20e3e7b6a8a,
+  m_SortingOrder: 2
+  m_Sprite: {fileID: 6196606555088352618, guid: 4d701fb8bab94204e92af20e3e7b6a8a,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 1
@@ -3653,7 +3653,7 @@ GameObject:
   - component: {fileID: 2030330337}
   - component: {fileID: 2030330336}
   m_Layer: 8
-  m_Name: BS (1)
+  m_Name: BS
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3707,7 +3707,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"class","value":{"$content":"Sword","$type":"UnitEnum"},"$version":"A"},{"name":"speed","value":{"$content":1.0,"$type":"System.Single"},"$version":"A"},{"name":"dust","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"class","value":{"$content":"Sword","$type":"UnitEnum"},"$version":"A"},{"name":"speed","value":{"$content":1.0,"$type":"System.Single"},"$version":"A"},{"name":"dust","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"hp","value":{"$content":10,"$type":"System.Int32"},"$version":"A"},{"name":"atk","value":{"$content":2,"$type":"System.Int32"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 1941634885}
 --- !u!61 &2030330339
@@ -3774,7 +3774,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 2
   m_Sprite: {fileID: -3154150011874791226, guid: 4d701fb8bab94204e92af20e3e7b6a8a,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
