@@ -759,9 +759,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"level","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"hasWizard","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"unit","value":{"$content":[{"$content":0,"$type":"UnityEngine.Object"},{"$content":1,"$type":"UnityEngine.Object"},{"$content":2,"$type":"UnityEngine.Object"}],"$type":"Ludiq.AotList"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"level","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"hasWizard","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"unit","value":{"$content":[{"$content":0,"$type":"UnityEngine.Object"},{"$content":1,"$type":"UnityEngine.Object"}],"$type":"Ludiq.AotList"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
-    - {fileID: 9052308333404994247, guid: 6874ce245c49af143ae35a87c864be4a, type: 3}
     - {fileID: 9052308333404994247, guid: 6874ce245c49af143ae35a87c864be4a, type: 3}
     - {fileID: 6872391870472771270, guid: 5b880f7efba79804fa4ddb35d03179e0, type: 3}
 --- !u!114 &267020767
@@ -1704,9 +1703,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"level","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"hasWizard","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"unit","value":{"$content":[{"$content":0,"$type":"UnityEngine.Object"},{"$content":1,"$type":"UnityEngine.Object"},{"$content":2,"$type":"UnityEngine.Object"}],"$type":"Ludiq.AotList"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"level","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"hasWizard","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"unit","value":{"$content":[{"$content":0,"$type":"UnityEngine.Object"},{"$content":1,"$type":"UnityEngine.Object"}],"$type":"Ludiq.AotList"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
-    - {fileID: 3009453036815304881, guid: db5b5e418ca85964c982285883eb81f4, type: 3}
     - {fileID: 3009453036815304881, guid: db5b5e418ca85964c982285883eb81f4, type: 3}
     - {fileID: 5860143489862104614, guid: 2d5a3ed3bf59b0941940c223e90cf184, type: 3}
 --- !u!114 &558821917
@@ -2596,9 +2594,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"level","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"hasWizard","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"unit","value":{"$content":[{"$content":0,"$type":"UnityEngine.Object"},{"$content":1,"$type":"UnityEngine.Object"},{"$content":2,"$type":"UnityEngine.Object"}],"$type":"Ludiq.AotList"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"level","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"hasWizard","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"unit","value":{"$content":[{"$content":0,"$type":"UnityEngine.Object"},{"$content":1,"$type":"UnityEngine.Object"}],"$type":"Ludiq.AotList"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
-    - {fileID: 6182099389959205726, guid: 9afb06a073223fd4bafa5716a8d5f83d, type: 3}
     - {fileID: 6182099389959205726, guid: 9afb06a073223fd4bafa5716a8d5f83d, type: 3}
     - {fileID: 6386210509026620315, guid: 3b5f2bc6adfe8544f8915161a6aa1bd4, type: 3}
 --- !u!114 &754355890
@@ -3538,9 +3535,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"level","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"hasWizard","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"unit","value":{"$content":[{"$content":0,"$type":"UnityEngine.Object"},{"$content":1,"$type":"UnityEngine.Object"},{"$content":2,"$type":"UnityEngine.Object"}],"$type":"Ludiq.AotList"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"level","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"hasWizard","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"unit","value":{"$content":[{"$content":0,"$type":"UnityEngine.Object"},{"$content":1,"$type":"UnityEngine.Object"}],"$type":"Ludiq.AotList"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
-    - {fileID: 893326265625787439, guid: a12d16e98cb84234b884b64f5a48a09c, type: 3}
     - {fileID: 893326265625787439, guid: a12d16e98cb84234b884b64f5a48a09c, type: 3}
     - {fileID: 8866798795484559920, guid: a79cae8fc8b1cd54497c21395f96d9c9, type: 3}
 --- !u!114 &1008386710
@@ -4403,9 +4399,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"level","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"hasWizard","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"unit","value":{"$content":[{"$content":0,"$type":"UnityEngine.Object"},{"$content":1,"$type":"UnityEngine.Object"},{"$content":2,"$type":"UnityEngine.Object"}],"$type":"Ludiq.AotList"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"level","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"hasWizard","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"unit","value":{"$content":[{"$content":0,"$type":"UnityEngine.Object"},{"$content":1,"$type":"UnityEngine.Object"}],"$type":"Ludiq.AotList"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
-    - {fileID: 5958815264399335444, guid: 7f5f6ed36040366488f10354057972e1, type: 3}
     - {fileID: 5958815264399335444, guid: 7f5f6ed36040366488f10354057972e1, type: 3}
     - {fileID: 8177056573935584220, guid: 093b3d727c53bfb47b5ef453b8732577, type: 3}
 --- !u!114 &1218576134
@@ -6767,9 +6762,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"level","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"hasWizard","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"unit","value":{"$content":[{"$content":0,"$type":"UnityEngine.Object"},{"$content":1,"$type":"UnityEngine.Object"},{"$content":2,"$type":"UnityEngine.Object"}],"$type":"Ludiq.AotList"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"level","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"hasWizard","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"unit","value":{"$content":[{"$content":0,"$type":"UnityEngine.Object"},{"$content":1,"$type":"UnityEngine.Object"}],"$type":"Ludiq.AotList"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
-    - {fileID: 5035373123958325346, guid: 1103c77f25bd4804fa116efc8c42228a, type: 3}
     - {fileID: 5035373123958325346, guid: 1103c77f25bd4804fa116efc8c42228a, type: 3}
     - {fileID: 1589666180795248120, guid: 6e20b928052e11a46ad7a7a78d6deb45, type: 3}
 --- !u!114 &2007444440
